@@ -8,6 +8,6 @@ tags:
   - Arte
 ---
 
-Trabajo realizados a lo largo del mes de diciembre de 2023
+Ilustraciones subidas a redes sociales
 
 <!--more-->

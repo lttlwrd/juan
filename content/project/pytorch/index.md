@@ -1,13 +1,13 @@
 ---
-title: PyTorch
+title: Portfolio Ilustración
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://illustrationlittleword.myportfolio.com/work?fbclid=PAZXh0bgNhZW0CMTEAAaYAM1aLFnWwWFN9qeg85sLtuq1h6jZjE_si04JfxyPlFp-V9eflCskUe5Q_aem_nQMlGyXvmjplE8XRhO7YTA
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - ilustracion
+  - arte
+  - diseño
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Portfolio - trabajos realizados entre 2022/2024.
 
 <!--more-->

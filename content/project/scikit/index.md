@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
+title: Portfolio Diseño Gráfico
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://www.behance.net/littleword
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Diseño
+  - trend
+  - arte
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Piezas de diseño gráfico realizadas entre 2022/2024
 
 <!--more-->
