@@ -1,13 +1,13 @@
 ---
-title: Pandas
+title: Ilustraciones
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://www.instagram.com/lttlwrd/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Ilustracion
+  - Diseño
+  - Arte
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Trabajo realizados a lo largo del mes de diciembre de 2023
 
 <!--more-->
