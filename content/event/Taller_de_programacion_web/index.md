@@ -12,17 +12,17 @@ address:
   postcode: ""
   country: ""
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: En el taller vemos los conceptos basicos de programación web.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-10-30T17:00:00Z'
+date_end: '2024-10-30T21:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-29-10T00:00:00Z'
 
 authors:
   - admin
