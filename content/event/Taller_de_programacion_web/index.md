@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Taller de Introducción Web
 
-event: Hugo Blox Builder Conference
+event: Talleres Bioinformaticos 2024
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Virtual
 address:
   street: 450 Serra Mall
   city: Stanford
